@@ -1,5 +1,5 @@
 {
-    "name": "algatux/mongodb-querybuilder",
+    "name": "dmitrymomot/mongodb-querybuilder",
     "description": "A query builder for mongodb",
     "type": "library",
     "license": "MIT",
